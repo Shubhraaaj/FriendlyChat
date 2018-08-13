@@ -10,6 +10,10 @@ each other. The app has option to google signin only for security reasons.
 ## Screenshots
 **Please click the image below to enlarge.**
 
+<img src="https://github.com/Shubhraaaj/FriendlyChat/blob/master/app/src/main/res/drawable/login.jpg" 
+height="420" width="240" hspace="20"><img src="https://github.com/Shubhraaaj/FriendlyChat/blob/master/app/src/main/res/drawable/messaging.jpg" 
+height="420" width="240" hspace="20"><img src="https://github.com/Shubhraaaj/FriendlyChat/blob/master/app/src/main/res/drawable/send%20image.jpg" 
+height="420" width="240" hspace="20">
 
 ## Setup
 Setup requires creating a Firebase project. See https://firebase.google.com/ for more information.
